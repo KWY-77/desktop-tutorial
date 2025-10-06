@@ -60,7 +60,12 @@ int main()
     int c = a / b;
 }
 
+Runtime error
+b is 0 and division by zero is undefined, so a/b cannot be computed.
+
+
 Your answers to parts b, c, and d should end before this line.
+
 */
 
 /*
